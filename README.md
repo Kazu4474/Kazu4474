@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kazu4474
-- 👀 I’m interested in software development ,web development, game development and ethical hacking.
-- 🌱 I’m currently learning python, c lamguage and ethical hacking.
+- 👀 I’m interested in software development ,web development, game development,front-end and back-end development as well as fullstack deveopment.
+- 🌱 I’m currently learning python, c, c++, ethical hacking.
 - 💞️ I’m looking to collaborate on any projects and learn new things.
 - 📫 How to reach me you can DM me on instagram _kazu221_
 
