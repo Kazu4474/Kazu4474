@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kazu4474
-- 👀 I’m interested in software development ,web development, game development,front-end and back-end development as well as fullstack deveopment.
+- 👀 I’m interested in software development, mobile development ,web development, game development,front-end and back-end development as well as fullstack deveopment.
 - 📚 Im currently 3rd year IT.
-- 🌱 I’m currently learning python, javascript, SQL, HTML & CSS, JAVA and Life.
+- 🌱 I’m have knowledge of Java, python, flutter, SQL.
 - 💞️  I’m looking to collaborate on Open Source Projects
 - 💻  I like to draw anime character and also learning Illustration.
 - 📫 How to reach me you can DM me on instagram _kazu221_
